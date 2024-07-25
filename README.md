@@ -47,6 +47,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img
+      src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png" alt="sql-server"
+      width="40" height="40" /> </a> <a href="https://azure.microsoft.com/es-es" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure"
+      width="40" height="40" /> </a> <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img
+      src="https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s900-c-k-c0x00ffffff-no-rj" alt="aws"
       width="40" height="40" /> </a> </p>
 
 <br>

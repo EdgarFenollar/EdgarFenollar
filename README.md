@@ -52,8 +52,15 @@
       width="40" height="40" /> </a> <a href="https://azure.microsoft.com/es-es" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure"
       width="40" height="40" /> </a> <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img
-      src="https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s900-c-k-c0x00ffffff-no-rj" alt="aws"
-      width="40" height="40" /> </a> </p>
+      src="https://i0.wp.com/amach.com/wp-content/uploads/2023/10/aww-logo-blue-background.png?resize=1024%2C1024&ssl=1" alt="aws"
+      width="40" height="40" /> </a> <img
+      src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="springboot"
+      width="40" height="40" /> <img
+      src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
+      width="40" height="40" /> </a> <img
+      src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="C#"
+      width="40" height="40" /> </a> </a>
+      </p>
 
 <br>
 
